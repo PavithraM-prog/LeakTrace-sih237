@@ -49,7 +49,7 @@ export default function LandingPage() {
               <span className="font-extrabold text-xl tracking-tight text-white">LeakTrace</span>
               <span className="bg-cyan-500/20 text-cyan-300 text-xs font-mono font-bold px-2 py-0.5 rounded border border-cyan-500/40">PQ</span>
             </div>
-            <p className="text-xs text-slate-400 font-mono">Smart India Hackathon 2026 • Problem Statement SIH26237</p>
+            <p className="text-xs text-slate-400 font-mono">AI Document Attribution & Forensics Platform</p>
           </div>
         </div>
 

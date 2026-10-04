@@ -68,7 +68,7 @@ export default function DashboardPage() {
           <div className="flex items-center gap-2">
             <h1 className="text-2xl font-bold text-white tracking-tight">Authority Security Operations Center</h1>
             <span className="bg-cyan-500/20 text-cyan-400 text-xs font-mono font-semibold px-2 py-0.5 rounded border border-cyan-500/30">
-              SIH26237 CONSOLE
+              SOC CONSOLE
             </span>
           </div>
           <p className="text-xs text-slate-400 mt-1">Real-time document attribution, watermark monitoring and automated leak detection.</p>

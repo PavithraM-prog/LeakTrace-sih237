@@ -68,7 +68,7 @@ export default function DetailedReportPage() {
                 FORENSIC LEAK INVESTIGATION REPORT
               </div>
               <div className="text-[10px] text-slate-400 font-mono print:text-gray-600">
-                SIH26237 • CYBERSECURITY ATTRIBUTION SUITE
+                CYBERSECURITY ATTRIBUTION SUITE
               </div>
             </div>
           </div>
@@ -191,7 +191,7 @@ export default function DetailedReportPage() {
 
         {/* Report Footer */}
         <div className="pt-8 border-t border-slate-800 flex items-center justify-between text-[11px] font-mono text-slate-500 print:border-gray-400 print:text-gray-600">
-          <div>LeakTrace PQ Automated Forensic Report • SIH26237</div>
+          <div>LeakTrace PQ Automated Forensic Report</div>
           <div>Cryptographic Seal: VERIFIED</div>
         </div>
       </div>

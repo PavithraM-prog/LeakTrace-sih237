@@ -34,7 +34,7 @@ export default function SecuritySettingsPage() {
           <div className="flex items-center gap-2">
             <h1 className="text-2xl font-bold text-white tracking-tight">Security & Post-Quantum Architecture</h1>
             <span className="bg-cyan-500/20 text-cyan-400 text-xs font-mono font-semibold px-2 py-0.5 rounded border border-cyan-500/30">
-              SIH26237 DEFENSE SUITE
+              CYBERSECURITY DEFENSE SUITE
             </span>
           </div>
           <p className="text-xs text-slate-400 mt-1">Cryptographic verification standards, post-quantum readiness specifications, and system parameters.</p>

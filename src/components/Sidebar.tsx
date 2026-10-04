@@ -54,7 +54,7 @@ export const Sidebar: React.FC = () => {
               <span className="font-bold text-lg tracking-wider text-white">LeakTrace</span>
               <span className="bg-cyan-500/10 text-cyan-400 text-[10px] font-mono font-semibold px-1.5 py-0.5 rounded border border-cyan-500/30">PQ</span>
             </div>
-            <p className="text-[10px] text-slate-400 font-mono tracking-tight">SIH26237 • CYBERSECURITY</p>
+            <p className="text-[10px] text-slate-400 font-mono tracking-tight">ENTERPRISE SECURITY PLATFORM</p>
           </div>
         </div>
 
@@ -63,7 +63,7 @@ export const Sidebar: React.FC = () => {
           <button
             onClick={() => {
               loadDemoScenario();
-              alert('Loaded realistic demo scenario for SIH judging!');
+              alert('Loaded realistic demo scenario!');
             }}
             className="w-full py-2 px-3 bg-gradient-to-r from-cyan-500/20 to-blue-500/20 hover:from-cyan-500/30 hover:to-blue-500/30 text-cyan-300 rounded-md border border-cyan-500/40 text-xs font-semibold flex items-center justify-center gap-2 transition shadow-sm"
           >
